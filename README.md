@@ -240,9 +240,9 @@ const m_yaseen = {
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Gmail-your--email%40example.com-E09419?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Gmail-your--email%40example.com-E09419?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:yaseenbatch16@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Yaseen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Yaseen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/muhammad-yaseen-198b75379/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-m--yaseen16-E09419?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/m-yaseen-official)
 
