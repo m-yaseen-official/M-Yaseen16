@@ -196,7 +196,7 @@ const m_yaseen = {
 
 <br/>
 
- <img src="https://streak-stats.demolab.com/?user=m-yaseen16&theme=tokyonight&hide_border=true&background=0d1117&ring=E09419&fire=FF6B6B&currStreakLabel=E09419&sideLabels=8b949e&dates=8b949e&border_radius=10&stroke=E09419" width="46%" /> 
+ <img src="https://streak-stats.demolab.com/?user=m-yaseen-official&theme=tokyonight&hide_border=true&background=0d1117&ring=E09419&fire=FF6B6B&currStreakLabel=E09419&sideLabels=8b949e&dates=8b949e&border_radius=10&stroke=E09419" width="46%" /> 
 
 <br/><br/>
 
@@ -207,25 +207,25 @@ const m_yaseen = {
 <table align="center" width="80%" cellspacing="15">
     <tr>
       <td width="50%"  style="background: linear-gradient(135deg, #0d1117, #1a1f2e); border-radius: 15px; padding: 8px;">
-        <img height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-yaseen16&theme=tokyonight" width="100%" />
+        <img height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-yaseen-official&theme=tokyonight" width="100%" />
       </td>
       <td width="50%"  style="background: linear-gradient(135deg, #0d1117, #1a1f2e); border-radius: 15px; padding: 8px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-yaseen16&theme=tokyonight" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-yaseen-official&theme=tokyonight" width="100%" />
       </td>
     </tr>
     <tr>
       <td width="50%" style="background: linear-gradient(135deg, #0d1117, #1a1f2e); border-radius: 15px; padding: 8px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-yaseen16&theme=tokyonight" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-yaseen-official&theme=tokyonight" width="100%" />
       </td>
       <td width="50%" style="background: linear-gradient(135deg, #0d1117, #1a1f2e); border-radius: 15px; padding: 8px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-yaseen16&theme=tokyonight" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-yaseen-official&theme=tokyonight" width="100%" />
       </td>
     </tr>
   </table>
   <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> 
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-yaseen16&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=E09419&line=E09419&point=ffffff&area=true&area_color=3d2200&radius=10" width="96%" /> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-yaseen-official&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=E09419&line=E09419&point=ffffff&area=true&area_color=3d2200&radius=10" width="96%" /> 
 
 </div>  
   <br/><br/>
@@ -244,11 +244,11 @@ const m_yaseen = {
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Yaseen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/your-profile)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-m--yaseen16-E09419?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/m-yaseen16)
+[![GitHub](https://img.shields.io/badge/GitHub-m--yaseen16-E09419?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/m-yaseen-official)
 
 <br/>
 <!-- Profile Views -->
-<!-- <img src="https://komarev.com/ghpvc/?username=m-yaseen16&label=Profile+Views&color=E09419&style=flat-square&abbreviated=true" />
+<!-- <img src="https://komarev.com/ghpvc/?username=m-yaseen-official&label=Profile+Views&color=E09419&style=flat-square&abbreviated=true" />
  -->
 
 </div>
